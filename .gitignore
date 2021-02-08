@@ -1,0 +1,4 @@
+#cartelle da ignorare quando si fa la push
+docsenv/
+docu/build/
+docu/source/_templates/
